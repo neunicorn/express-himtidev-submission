@@ -1,0 +1,31 @@
+{
+  "name": "express-himtidev-submission",
+  "version": "1.0.0",
+  "description": "tugas himtidev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js",
+    "lint": "eslin ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neunicorn/express-himtidev-submission.git"
+  },
+  "keywords": [
+    "tugas-himtidev"
+  ],
+  "author": "zulfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neunicorn/express-himtidev-submission/issues"
+  },
+  "homepage": "https://github.com/neunicorn/express-himtidev-submission#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
